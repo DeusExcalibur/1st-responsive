@@ -184,7 +184,7 @@
     }
 
     .review {
-        width: 400px;
+        width: 390px;
     }
 
     .review-1 {
@@ -209,6 +209,24 @@
         width: 400px;
         margin: 10px;
         bottom: 0;
+    }
+
+    .opinion-titulo-1 {
+        padding-top: 30px;
+    }
+
+    .opinion-2 {
+        position: relative;
+        top: 2em;
+    }
+
+    .opinion-3 {
+        position: relative;
+        top: 4em;
+    }
+
+    .attribution {
+        margin-top: 8em;
     }
 
 
